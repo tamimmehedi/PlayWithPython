@@ -1,0 +1,4 @@
+If you want to open python shell in your terminal, just type python3
+If you want to move to python shell , type exit()
+If you want to clear your terminal, type clear (cls in windows)
+If you want to clear your python shell, type ctrl + l
