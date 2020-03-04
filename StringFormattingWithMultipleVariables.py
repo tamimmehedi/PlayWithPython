@@ -15,4 +15,5 @@ print(message)
        
 name = input("Enter your name: ")
 experience_years = input("Enter years: ")
-print("Hi {}, you have {} years of experience".format(name, experience_years))
+mesage = "Hi {}, you have {} years of experience".format(name, experience_years)
+print(message)
